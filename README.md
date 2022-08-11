@@ -11,4 +11,4 @@ This script expects the following env vars as configuration:
 * `UPLOAD_SERVER_USER`: Beehive's upload server user.
 * `UPLOAD_SERVER_KEY`: Path to Beehive's upload server key.
 
-Additionally, an ssh key pair must be mounted at ``UPLOAD_SERVER_KEY` for authentication with the upload server.
+Additionally, an ssh key pair must be mounted at `UPLOAD_SERVER_KEY` for authentication with the upload server.
